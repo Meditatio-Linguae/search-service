@@ -1,0 +1,13 @@
+{
+  "name": "anglysis-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:leduy8/anglysis-server.git",
+  "author": "Duy <duy.leduc8@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
