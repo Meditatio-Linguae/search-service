@@ -1,6 +1,6 @@
 const { getDb } = require("../config/mongo");
 
-const COLLECTION_NAME = "words";
+const COLLECTION_NAME = "compounds";
 
 async function findByWord(word) {
     const db = getDb();
